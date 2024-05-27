@@ -1,0 +1,15 @@
+{
+  "name": "unit_testing",
+  "version": "1.0.0",
+  "description": "This is a unit testing program",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Ian",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
